@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\agh university of science and technology\rok i semestr ii\algorytmy i struktury danych\laboratoria\aisd_node\aisd_node\source.cpp(251): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AiSD_node.vcxproj -> D:\AGH University of science and technology\Rok I Semestr II\Algorytmy i struktury danych\laboratoria\AiSD_node\Debug\AiSD_node.exe
+  AiSD_node.vcxproj -> D:\AGH University of science and technology\Rok I Semestr II\Algorytmy i struktury danych\laboratoria\AiSD_node\Debug\AiSD_node.pdb (Partial PDB)
